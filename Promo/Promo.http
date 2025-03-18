@@ -1,0 +1,6 @@
+@Promo_HostAddress = http://localhost:5153
+
+GET {{Promo_HostAddress}}/promotions/
+Accept: application/json
+
+###
